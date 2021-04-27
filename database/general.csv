@@ -1,0 +1,11 @@
+sk_general|type|place|name|title|description|start_date|end_date|color|url_website|url
+1_ED_ERMITAGE|Education|Maisons Laffite, France|Ermitage International School|Student||2008-09-01|2009-06-01|yellow|https://www.ermitage.fr/|static/ErmitageInternationalSchool.png
+2_ED_ROCHES|Education|Verneuil s/Avre, France|Ecole des Roches|Student||2009-09-01|2010-06-01|yellow|https://www.ecoledesroches.com/|static/roches.png
+3_ED_ESEO|Education|Angers, France|ESEO|Student||2010-09-01|2015-04-01|yellow|https://www.eseo.fr/|static/eseo.png
+4_ED_ESCP|Education|London, UK & Paris, France|ESCP Europe Business School|Student||2015-09-30|2016-06-01|yellow|https://escp.eu/fr|static/escp.png
+5_ED_DATACAMP|Education|Online|DataCamp|Data analyst course |Data analysis course using Python & SQL|2020-11-01|2021-04-01|yellow|https://www.datacamp.com|static/datacamp.png
+6_W_WPD|Work|Paris, France|wpd SAS|Wind project manager assistant||2015-04-01|2015-09-30|green|https://www.wpd.fr|static/wpd.png
+7_W_SUEZ|Work|Paris, France|Suez Recyclage & Valorisation|Key account business development manager||2016-06-01|2017-01-01|green|https://www.suez.com|static/suez.png
+8_W_GRDF|Work|Paris, France|GRDF via Cardiweb|Consultant for Cardiweb|Product owner of a natural gas B2C marketing website|2017-04-01|2017-12-31|green|https://www.grdf.fr|static/GRDF.png
+9_W_NEXANS|Work|Brussels, Belgium|Nexans|Master data manager||2018-01-01|2019-01-01|green|https://www.nexans.com|static/nexans.png
+10_W_SPFF|Work|Brussels, Belgium|Services Public Federal Finances|Consultant for Extia|Functional analyst|2019-02-01|2021-06-01|green|https://finances.belgium.be/fr|static/spff.png
